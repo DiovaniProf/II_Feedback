@@ -6,3 +6,6 @@ Mudanças: tela Como explorar a paisagem em três faixas fixas; exclusão apenas
 O relatório DOCX inclui agora o roteiro atualizado. As demais áreas e o registro de comentários continuam ativos.
 
 O arquivo TELA.jpg deve ser adicionado separadamente.
+
+
+Atualização 15.1: botões de apoio reposicionados para dentro da imagem, com maior contraste visual (borda branca, fundo preto, texto branco e ícones mais visíveis).
